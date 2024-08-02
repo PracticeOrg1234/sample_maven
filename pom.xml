@@ -7,7 +7,7 @@
   <groupId>com.java.javaApp</groupId>
   <artifactId>javaApp</artifactId>
   <version>1.0-SNAPSHOT</version>
-
+  <!-- Hello this is Kirtish -->
   <name>javaApp</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
